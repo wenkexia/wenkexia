@@ -5,7 +5,7 @@
 
 
 [参考](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wenkxia&theme={theme_name}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wenkxia
 http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wenkxia&theme={theme_name}&exclude={exclude}
 http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wenkxia&theme={theme_name}&exclude={exclude}
 http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wenkxia&theme={theme_name}
